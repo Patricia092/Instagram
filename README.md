@@ -4,7 +4,7 @@ Este projeto consiste na recriação da página inicial de login do Instagram pa
 O projeto foi realizado com as linguagens HTML e CSS, e ao abrir a página no navegador são reproduzidas imagens do Instagram dentro da tela do celular.
 
 <h2 align="center">
-<img src="https://github.com/Patricia092/Instagram/blob/master/tela.PNG" width="400" height="300"/>
+<img src="https://github.com/Patricia092/Instagram/blob/master/tela.PNG" width="800" height="600"/>
 </h2>
 
 
